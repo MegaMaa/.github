@@ -1,0 +1,2 @@
+## MegaMaa
+Suomalainen Minecraft palvelin.
